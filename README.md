@@ -1,7 +1,8 @@
 # EjercicioMatematicasTecnicasProgramacion
 ## Mi repositorio: https://github.com/Juank2003/EjercicioMatematicasTecnicasProgramacion.git
+## Ejercicio Matemáticas:
 
-## Se deben definir los tipos de datos datoPolinomio y Polinomio, donde el primero almacena el valor y el 
+Se deben definir los tipos de datos datoPolinomio y Polinomio, donde el primero almacena el valor y el 
 término de dicho valor –es decir si es xn, xn-1,…, x0– y el segundo es la estructura de datos polinomio que 
 está compuesto de dos campos el grado del polinomio y un puntero que apunta al termino mayor del polinomio, 
 
